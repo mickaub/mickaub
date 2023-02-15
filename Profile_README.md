@@ -23,6 +23,14 @@ Currently study goal websites:
 -Unity Learn
 -TryHackMe
   In Feb 23 Subscibed to TryHackMe to gain knowledge and experience in Cyber Security field.
+  Roles in Cyber Security
+- Security Analyst
+- Security Engineer
+- Incident Responder :/
+- Digital Forensics Examiner
+- Malware Analyst :/
+- Penetration Tester
+- Red Teamer
 
 <!---
 mickaub/mickaub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

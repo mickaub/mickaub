@@ -22,6 +22,7 @@ Currently study goal websites:
 -Microsoft Learn
 -Unity Learn
 -TryHackMe
+  In Feb 23 Subscibed to TryHackMe to gain knowledge and experience in Cyber Security field.
 
 <!---
 mickaub/mickaub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -4,6 +4,21 @@
 
 Currently study goal websites:
 -FreeCodeCamp
+  Certs available:
+  Responsive Web Design HTML,CSS,JS DONE!
+  Javascript Algorithms JS
+  Front end development libraries JS
+  Data visualisation JS
+  Relational Databases Linux, SQL, Git
+  Back end development JS noSQL
+  Quality Assurance JS
+  
+  Scientific Computing with Python Py
+  Data Analysis with Python Py
+  Information Security JS,Py
+  Machine Learning with Python Py
+  Coding Interview Prep Various
+
 -Microsoft Learn
 -Unity Learn
 -TryHackMe
